@@ -1,0 +1,10 @@
+server:
+  port: 10000
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://dpg-clmdhf1fb9qs739bvjn0-a.oregon-postgres.render.com:5432/movies_app_v9t4
+    username: movies_app_v9t4_user
+    password: XWVbyer0zGJW05nJRRtL2wwjmZ7KPrQy
+  application:
+    name: rl5-api-users
